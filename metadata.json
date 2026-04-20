@@ -1,0 +1,6 @@
+{
+  "name": "Student Feedback System",
+  "description": "A modern web application for students to provide feedback on staff and for staff to manage responses, built with React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
